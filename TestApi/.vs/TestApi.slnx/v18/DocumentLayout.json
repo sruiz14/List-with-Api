@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cositec\\TestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|c:\\cositec\\testapi\\testapi\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|C:\\Cositec\\TestApi\\testapi\\models\\apiasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\apiasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|C:\\Cositec\\TestApi\\testapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|C:\\Cositec\\TestApi\\testapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|C:\\Cositec\\TestApi\\testapi\\models\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14000B3-697A-40FF-8477-CD4BF1024B0D}|TestApi\\TestApi.csproj|solutionrelative:testapi\\models\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Cositec\\TestApi\\TestApi\\Web.config",
+              "RelativeDocumentMoniker": "TestApi\\Web.config",
+              "ToolTip": "C:\\Cositec\\TestApi\\TestApi\\Web.config",
+              "RelativeToolTip": "TestApi\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-09T18:36:52.242Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiAsp.cs",
+              "DocumentMoniker": "C:\\Cositec\\TestApi\\TestApi\\Models\\ApiAsp.cs",
+              "RelativeDocumentMoniker": "TestApi\\Models\\ApiAsp.cs",
+              "ToolTip": "C:\\Cositec\\TestApi\\TestApi\\Models\\ApiAsp.cs",
+              "RelativeToolTip": "TestApi\\Models\\ApiAsp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:31:13.653Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrincipalController.cs",
+              "DocumentMoniker": "C:\\Cositec\\TestApi\\TestApi\\Controllers\\PrincipalController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\PrincipalController.cs",
+              "ToolTip": "C:\\Cositec\\TestApi\\TestApi\\Controllers\\PrincipalController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\PrincipalController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwEoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:29:50.323Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Cositec\\TestApi\\TestApi\\Models\\Principal.cs",
+              "RelativeDocumentMoniker": "TestApi\\Models\\Principal.cs",
+              "ToolTip": "C:\\Cositec\\TestApi\\TestApi\\Models\\Principal.cs",
+              "RelativeToolTip": "TestApi\\Models\\Principal.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAuwOwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:31:29.201Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Cositec\\TestApi\\TestApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Cositec\\TestApi\\TestApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:36:09.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
