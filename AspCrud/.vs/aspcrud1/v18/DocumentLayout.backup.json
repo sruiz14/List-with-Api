@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cositec\\crudasp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|c:\\cositec\\crudasp\\aspcrud1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|solutionrelative:aspcrud1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|C:\\Cositec\\crudasp\\aspcrud1\\models\\mpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|solutionrelative:aspcrud1\\models\\mpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|C:\\Cositec\\crudasp\\aspcrud1\\assets\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|solutionrelative:aspcrud1\\assets\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|C:\\Cositec\\crudasp\\aspcrud1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|solutionrelative:aspcrud1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|C:\\Cositec\\crudasp\\aspcrud1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{64E48F0A-ADD2-4751-A739-2E31B019D0FB}|aspcrud1\\aspcrud1.csproj|solutionrelative:aspcrud1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Cositec\\crudasp\\aspcrud1\\Web.config",
+              "RelativeDocumentMoniker": "aspcrud1\\Web.config",
+              "ToolTip": "C:\\Cositec\\crudasp\\aspcrud1\\Web.config",
+              "RelativeToolTip": "aspcrud1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T19:24:06.096Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Cositec\\crudasp\\aspcrud1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "aspcrud1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Cositec\\crudasp\\aspcrud1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "aspcrud1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T15:34:15.302Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Cositec\\crudasp\\aspcrud1\\assets\\js\\index.js",
+              "RelativeDocumentMoniker": "aspcrud1\\assets\\js\\index.js",
+              "ToolTip": "C:\\Cositec\\crudasp\\aspcrud1\\assets\\js\\index.js",
+              "RelativeToolTip": "aspcrud1\\assets\\js\\index.js",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-13T15:37:25.042Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Cositec\\crudasp\\aspcrud1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aspcrud1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Cositec\\crudasp\\aspcrud1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aspcrud1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T15:37:01.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mPersonas.cs",
+              "DocumentMoniker": "C:\\Cositec\\crudasp\\aspcrud1\\Models\\mPersonas.cs",
+              "RelativeDocumentMoniker": "aspcrud1\\Models\\mPersonas.cs",
+              "ToolTip": "C:\\Cositec\\crudasp\\aspcrud1\\Models\\mPersonas.cs",
+              "RelativeToolTip": "aspcrud1\\Models\\mPersonas.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAmwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T15:34:31.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
